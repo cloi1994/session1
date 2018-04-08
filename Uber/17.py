@@ -32,4 +32,5 @@ class Solution(object):
         for c in hm[digits[level]]:
             self.dfs(level+1,digits,tmp+c,res,hm)
         
-    # O(c^len(digits))
+    # Time : O(c^len(digits))
+    # Space : O(len(digits))
