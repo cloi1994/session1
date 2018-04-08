@@ -22,3 +22,5 @@ class Solution(object):
         if left > right:
             self.dfs(left,right+1,n,tmp+')',res)
         
+    # time : O(n!) because 654321
+    # space : O(2n)
