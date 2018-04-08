@@ -19,7 +19,6 @@ def groupStrings(strs):
 
     return hm.values()
 
-
-
-
 print groupStrings(["abc", "bcd", "acef", "xyz", "az", "ba", "a", "z"])
+
+# Get the pattern diff from 'a'
