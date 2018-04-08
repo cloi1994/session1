@@ -1,9 +1,9 @@
 def getFactors(n):
     res = []
-    dfs(2,n,[],res)
+    dfs(2,n,n,[],res)
     return res
 
-def dfs(start,target,tmp,res):
+def dfs(start,n,target,tmp,res):
     if target == 1:
         if len(tmp) > 1:
             res.append(tmp[:])
@@ -12,10 +12,10 @@ def dfs(start,target,tmp,res):
     if target < 1:
         return
 
-    for i in range(start,target+1):
+    for i in range(start,n):
         if target % i == 0:
             tmp.append(i)
-            dfs(i,target/i,tmp,res)
+            dfs(i,n,target/i,tmp,res)
             tmp.pop()
 
 
