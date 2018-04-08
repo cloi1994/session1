@@ -13,7 +13,7 @@ def dfs(start,n,target,tmp,res):
         return
 
     for i in range(start,n):
-        if target % i == 0:
+        if n % i == 0:
             tmp.append(i)
             dfs(i,n,target/i,tmp,res)
             tmp.pop()
