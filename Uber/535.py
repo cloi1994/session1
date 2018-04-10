@@ -13,7 +13,7 @@ class Codec:
         self.code2url = {}
 
     def encode(self, longUrl):
-        if longUrl not in self.url2code:
+        while longUrl not in self.url2code:
             code = ''.join(random.choice(Codec.alphabet) for _ in range(6))
             if code not in self.code2url:
                 self.code2url[code] = longUrl
