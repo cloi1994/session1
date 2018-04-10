@@ -10,7 +10,8 @@ New Type:
 |22. Generate Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Uber/22.py) | Medium | BackTracking
 |36. Valid Sudoku | [py](https://github.com/cloi1994/session1/blob/master/Uber/36.py) | Medium | Hash Table
 |49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Uber/49.py) | Medium | Hash Table
-|54. Spiral Matrix
+|54. Spiral Matrix | [py](https://github.com/cloi1994/session1/blob/master/Uber/54.py) | Medium | Matrix
+|133 Clone Graph 
 |139 Word Break
 |249. Group Shifted Strings | [py](https://github.com/cloi1994/session1/blob/master/Uber/249.py) | Medium | Ascii
 |254. Factor Combinations | [py](https://github.com/cloi1994/session1/blob/master/Uber/254.py) | Medium | BackTracking
