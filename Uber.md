@@ -9,6 +9,7 @@ New Type:
 |17. Letter Combinations of a Phone Number | [py](https://github.com/cloi1994/session1/blob/master/Uber/17.py) | Medium | BackTracking
 |22. Generate Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Uber/22.py) | Medium | BackTracking
 |36. Valid Sudoku | [py](https://github.com/cloi1994/session1/blob/master/Uber/36.py) | Medium | Hash Table
+|37. Sudoku Solver | [py](https://github.com/cloi1994/session1/blob/master/Uber/36.py) | Hard | BackTracking | ✅
 |49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Uber/49.py) | Medium | Hash Table
 |54. Spiral Matrix | [py](https://github.com/cloi1994/session1/blob/master/Uber/54.py) | Medium | Matrix | ✅
 |133. Clone Graph 
