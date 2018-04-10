@@ -1,7 +1,7 @@
-/*
+'''
 It produces short URLs like http://tinyurl.com/KtLa2U, using a random code of six digits or letters. 
 If a long URL is already known, the existing short URL is used and no new entry is generated.
-/*
+'''
 
 
 class Codec:
