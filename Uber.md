@@ -14,6 +14,7 @@ New Type:
 |39 Combination Sum  | [py](https://github.com/cloi1994/session1/blob/master/Uber/39.py) | Medium | BackTracking | ✅
 |49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Uber/49.py) | Medium | Hash Table
 |54. Spiral Matrix | [py](https://github.com/cloi1994/session1/blob/master/Uber/54.py) | Medium | Matrix | ✅
+|78. Subsets | [py](https://github.com/cloi1994/session1/blob/master/Uber/78.py) | Medium | BackTracking |
 |133. Clone Graph 
 |138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Uber/138.py) | Medium | List |
 |139. Word Break
