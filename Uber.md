@@ -22,7 +22,7 @@ New Type:
 |186. Reverse Words in a String II | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | String
 |207. Course Schedule
 |208. Implement Trie (Prefix Tree)
-|230. Kth Smallest Element in a BST | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | Tree
+|230. Kth Smallest Element in a BST | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | Tree | ✅
 |242. Valid Anagram | [py](https://github.com/cloi1994/session1/blob/master/Uber/242.py) | Easy | Hash Table
 |249. Group Shifted Strings | [py](https://github.com/cloi1994/session1/blob/master/Uber/249.py) | Medium | Ascii
 |254. Factor Combinations | [py](https://github.com/cloi1994/session1/blob/master/Uber/254.py) | Medium | BackTracking
