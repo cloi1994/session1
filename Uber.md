@@ -20,6 +20,7 @@ New Type:
 |138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Uber/138.py) | Medium | List |
 |139. Word Break
 |186. Reverse Words in a String II | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | String
+|206. Reverse Linked List | [py](https://github.com/cloi1994/session1/blob/master/Uber/206.py) | Medium | LinkedList
 |207. Course Schedule
 |208. Implement Trie (Prefix Tree)
 |230. Kth Smallest Element in a BST | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | Tree | ✅
