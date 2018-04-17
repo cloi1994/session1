@@ -9,6 +9,7 @@
 |13. Roman to Integer | [py](https://github.com/cloi1994/session1/blob/master/Uber/13.py) | Medium | Math | ❌|
 |17. Letter Combinations of a Phone Number | [py](https://github.com/cloi1994/session1/blob/master/Uber/17.py) | Medium | BackTracking
 |22. Generate Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Uber/22.py) | Medium | BackTracking
+|24. Swap Nodes in Pairs | [py](https://github.com/cloi1994/session1/blob/master/Uber/24.py) | Medium | LinkedList
 |33. Search in Rotated Sorted Array | [py](https://github.com/cloi1994/session1/blob/master/Uber/33.py) | Medium | Binary Search
 |36. Valid Sudoku | [py](https://github.com/cloi1994/session1/blob/master/Uber/36.py) | Medium | Hash Table
 |37. Sudoku Solver | [py](https://github.com/cloi1994/session1/blob/master/Uber/37.py) | Hard | BackTracking | ✅
