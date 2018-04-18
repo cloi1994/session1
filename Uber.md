@@ -22,6 +22,7 @@
 |133. Clone Graph 
 |138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Uber/138.py) | Medium | List |
 |139. Word Break
+|155. Min Stack | [py](https://github.com/cloi1994/session1/blob/master/Uber/155.py) | Medium | Design |✅
 |186. Reverse Words in a String II | [py](https://github.com/cloi1994/session1/blob/master/Uber/186.py) | Medium | String
 |202. Happy Number | [py](https://github.com/cloi1994/session1/blob/master/Uber/202.py) | Easy | Hash Table
 |206. Reverse Linked List | [py](https://github.com/cloi1994/session1/blob/master/Uber/206.py) | Medium | LinkedList
@@ -48,5 +49,5 @@
 
 | Date  | # Solved |
 |---------|:--:|
-|4/17/2018 |
+|4/17/2018 | 5
 |4/16/2018 | 5
