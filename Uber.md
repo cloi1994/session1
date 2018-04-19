@@ -42,6 +42,7 @@
 |535. Encode and Decode TinyURL | [py](https://github.com/cloi1994/session1/blob/master/Uber/535.py) | Medium | Design | ✅ |
 |636. Exclusive Time of Functions | [py](https://github.com/cloi1994/session1/blob/master/Uber/636.py) | Medium | Stack
 |648. Replace Words | [py](https://github.com/cloi1994/session1/blob/master/Uber/648.py) | Medium | String / Trie
+|690. Employee Importance | [py](https://github.com/cloi1994/session1/blob/master/Uber/690.py) | Easy | DFS / Hash Table
 |692. Top K Frequent Words | [py](https://github.com/cloi1994/session1/blob/master/Uber/692.py) | Medium | String / Trie | ✅
 
 
