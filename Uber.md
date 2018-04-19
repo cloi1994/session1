@@ -32,9 +32,9 @@
 |242. Valid Anagram | [py](https://github.com/cloi1994/session1/blob/master/Uber/242.py) | Easy | Hash Table
 |249. Group Shifted Strings | [py](https://github.com/cloi1994/session1/blob/master/Uber/249.py) | Medium | Ascii
 |254. Factor Combinations | [py](https://github.com/cloi1994/session1/blob/master/Uber/254.py) | Medium | BackTracking
-|337. House Robber III | [py](https://github.com/cloi1994/session1/blob/master/Uber/337.py) | Medium | DP | ✅
 |290. Word Pattern | [py](https://github.com/cloi1994/session1/blob/master/Uber/290.py) | Easy | String | ✅
-|337. House Robber III
+|337. House Robber III | [py](https://github.com/cloi1994/session1/blob/master/Uber/337.py) | Medium | DP | ✅
+|373. Find K Pairs with Smallest Sums | [py](https://github.com/cloi1994/session1/blob/master/Uber/373.py) | Medium | Heap | ✅
 |380. Insert Delete GetRandom O(1) | [py](https://github.com/cloi1994/session1/blob/master/Uber/380.py) | Medium | Design
 |450. Delete Node in a BST | 
 |535. Encode and Decode TinyURL | [py](https://github.com/cloi1994/session1/blob/master/Uber/535.py) | Medium | Design | ✅ |
