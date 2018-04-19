@@ -6,6 +6,7 @@
 | Title  | Solution |Level | Type | Importance |
 |-------------|:-----:| :-----: | :------: | :------: |
 |1. Two Sum | [py](https://github.com/cloi1994/session1/blob/master/Uber/1.py) | Medium | Hash Table |
+|8. String to Integer (atoi) | [py](https://github.com/cloi1994/session1/blob/master/Uber/8.py) | Easy | Math | ❌|
 |13. Roman to Integer | [py](https://github.com/cloi1994/session1/blob/master/Uber/13.py) | Medium | Math | ❌|
 |17. Letter Combinations of a Phone Number | [py](https://github.com/cloi1994/session1/blob/master/Uber/17.py) | Medium | BackTracking
 |22. Generate Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Uber/22.py) | Medium | BackTracking
