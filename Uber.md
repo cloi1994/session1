@@ -21,7 +21,7 @@
 |104. Maximum Depth of Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Uber/104.py) | Easy | DFS 
 |121. Best Time to Buy and Sell Stock | [py](https://github.com/cloi1994/session1/blob/master/Uber/121.py) | Medium | DP |✅
 |125. Valid Palindrome | [py](https://github.com/cloi1994/session1/blob/master/Uber/125.py) | Medium | Two Pointers |
-|133. Clone Graph 
+|133. Clone Graph | [py](https://github.com/cloi1994/session1/blob/master/Uber/131.py) | Medium | Graph, DFS | |✅
 |138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Uber/138.py) | Medium | List |
 |139. Word Break
 |155. Min Stack | [py](https://github.com/cloi1994/session1/blob/master/Uber/155.py) | Medium | Design |✅
