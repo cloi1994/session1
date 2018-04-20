@@ -40,7 +40,7 @@
 |373. Find K Pairs with Smallest Sums | [py](https://github.com/cloi1994/session1/blob/master/Uber/373.py) | Medium | Heap | ✅
 |380. Insert Delete GetRandom O(1) | [py](https://github.com/cloi1994/session1/blob/master/Uber/380.py) | Medium | Design
 |450. Delete Node in a BST | 
-|516. Longest Palindromic Subsequence
+|516. Longest Palindromic Subsequence | [py](https://github.com/cloi1994/session1/blob/master/Uber/516.py) | Medium | DP
 |535. Encode and Decode TinyURL | [py](https://github.com/cloi1994/session1/blob/master/Uber/535.py) | Medium | Design | ✅ |
 |636. Exclusive Time of Functions | [py](https://github.com/cloi1994/session1/blob/master/Uber/636.py) | Medium | Stack
 |648. Replace Words | [py](https://github.com/cloi1994/session1/blob/master/Uber/648.py) | Medium | String / Trie
