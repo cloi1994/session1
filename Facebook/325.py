@@ -20,3 +20,26 @@ class Solution:
                     best = max(best,j-i)
                     
         return best
+    
+    def maxSubArrayLen(self, nums, k):
+        # Write your code here
+        
+        summ = 0
+        best = 0
+        
+        dic = {}
+                    
+        
+        for i in range(len(nums)):
+            summ += nums[i]
+            
+            if summ == k:
+                best = i+1
+            elif summ - k in dic:
+                best = max(best,i - dic[summ-k])
+        
+            if summ not in dic:
+                dic[summ] = i
+            
+        
+        return best
