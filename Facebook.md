@@ -15,6 +15,9 @@
 |651. Binary Tree Vertical Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/314.py) | Medium | Greedy |✅
 |15. 3Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/15.py) | Medium | Two Pointers |✅
 |297. Serialize and Deserialize Binary Tree 
+|311. Sparse Matrix Multiplication | [py](https://github.com/cloi1994/session1/blob/master/Facebook/311.py) | Medium | Hash Table |✅
+|278. First Bad Version | [py](https://github.com/cloi1994/session1/blob/master/Facebook/278.py) | Easy | DFS |✅
+
 
 
 #### 打卡：
@@ -22,3 +25,4 @@
 | Date  | # Solved |
 |---------|:--:|
 |5/25/18| 5 |
+|5/26/18| 5 |
