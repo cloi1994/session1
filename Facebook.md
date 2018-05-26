@@ -13,7 +13,7 @@
 |325 Maximum Size Subarray Sum Equals k | [py](https://github.com/cloi1994/session1/blob/master/Facebook/325.py) | Medium | Greedy |✅
 |17. Letter Combinations of a Phone Number | [py](https://github.com/cloi1994/session1/blob/master/Facebook/17.py) | Medium | DFS |✅
 |651. Binary Tree Vertical Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/314.py) | Medium | Greedy |✅
-|15. 3Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/15.py) | Medium | TwoPointers |✅
+|15. 3Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/15.py) | Medium | Two Pointers |✅
 |297. Serialize and Deserialize Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/297.py) | Hard | Desgin |✅
 
 
