@@ -18,7 +18,8 @@
 |311. Sparse Matrix Multiplication | [py](https://github.com/cloi1994/session1/blob/master/Facebook/311.py) | Medium | Hash Table |✅
 |278. First Bad Version | [py](https://github.com/cloi1994/session1/blob/master/Facebook/278.py) | Easy | Binary Search |✅
 |200. Number of Islands | [py](https://github.com/cloi1994/session1/blob/master/Facebook/278.py) | Medium | DFS |✅
-
+|277. Find the Celebrity | [py](https://github.com/cloi1994/session1/blob/master/Facebook/277.py) | Easy | Search |✅
+|257. Binary Tree Paths | [py](https://github.com/cloi1994/session1/blob/master/Facebook/277.py) | Easy | DFS |✅
 
 
 #### 打卡：
