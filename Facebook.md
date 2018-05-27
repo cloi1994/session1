@@ -25,9 +25,8 @@
 |157. Read N Characters Given Read4 
 |125. Valid Palindrome | [py](https://github.com/cloi1994/session1/blob/master/Facebook/125.py) | Easy | Hash Table |✅
 |211. Add and Search Word
-|56. Merge Intervals
-|1. Two Sum
-|680. Valid Palindrome II
+|1. Two Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/1.py) | Easy | Hash Table |✅
+|680. Valid Palindrome II | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Two Pointer |✅
 
 #### 打卡：
 
