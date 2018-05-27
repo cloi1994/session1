@@ -22,8 +22,12 @@
 |257. Binary Tree Paths | [py](https://github.com/cloi1994/session1/blob/master/Facebook/257.py) | Easy | DFS |✅
 |173. Binary Search Tree Iterator | [py](https://github.com/cloi1994/session1/blob/master/Facebook/173.py) | Medium | Design |✅
 |121. Best Time to Buy and Sell Stock 
-|157. Read N Characters Given Read4 | [py](https://github.com/cloi1994/session1/blob/master/Facebook/157.py) | Design |  |✅
+|157. Read N Characters Given Read4 
 |125. Valid Palindrome | [py](https://github.com/cloi1994/session1/blob/master/Facebook/125.py) | Easy | Hash Table |✅
+|211. Add and Search Word
+|56. Merge Intervals
+|1. Two Sum
+|680. Valid Palindrome II
 
 #### 打卡：
 
