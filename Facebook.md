@@ -21,7 +21,7 @@
 |277. Find the Celebrity | [py](https://github.com/cloi1994/session1/blob/master/Facebook/277.py) | Easy | Search |✅
 |257. Binary Tree Paths | [py](https://github.com/cloi1994/session1/blob/master/Facebook/257.py) | Easy | DFS |✅
 |173. Binary Search Tree Iterator | [py](https://github.com/cloi1994/session1/blob/master/Facebook/173.py) | Medium | Design |✅
-|121. Best Time to Buy and Sell Stock 
+|121. Best Time to Buy and Sell Stock | [py](https://github.com/cloi1994/session1/blob/master/Facebook/121.py) | Easy | DP |✅
 |157. Read N Characters Given Read4 
 |125. Valid Palindrome | [py](https://github.com/cloi1994/session1/blob/master/Facebook/125.py) | Easy | Hash Table |✅
 |211. Add and Search Word
