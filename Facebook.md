@@ -27,6 +27,13 @@
 |211. Add and Search Word
 |1. Two Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/1.py) | Easy | Hash Table |✅
 |680. Valid Palindrome II | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Two Pointer |✅
+|636. Exclusive Time of Functions
+|341. Flatten Nested List Iterator
+|252. Meeting Rooms
+|597. Friend Requests I: Overall Acceptance Rate
+|161. One Edit Distance
+|43. Multiply Strings
+|98. Validate Binary Search Tree
 
 #### 打卡：
 
@@ -35,4 +42,4 @@
 |5/25/18| 5 |
 |5/26/18| 5 |
 |5/27/18| 5 |
-
+|5/28/18| 5 |
