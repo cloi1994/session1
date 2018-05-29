@@ -59,23 +59,17 @@ class Solution:
     
     def inorderSuccessor3(self, root, p):
         # write your code here
-        
-        if not root or not p:
-            return None
-            
-        success = [None]
-        
-        self.dfs(root,p,success)
-        
-        return success[0]
+
+        return self.dfs(root,p,None)
         
     def dfs(self,root,p,success):
         
         if not root:
-            return
+            return success
         
         if root.val > p.val:
-            success[0] = root
-            self.dfs(root.left,p,success)
+            success = root
+            return self.dfs(root.left,p,success)
         else:
-            self.dfs(root.right,p,success)
+            return self.dfs(root.right,p,success)
+            
