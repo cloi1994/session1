@@ -39,7 +39,7 @@ class Solution:
                 
         return None
         
-            def inorderSuccessor(self, root, p):
+    def inorderSuccessor(self, root, p):
         # write your code here
         
         if not root or not p:
