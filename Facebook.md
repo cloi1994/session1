@@ -35,12 +35,12 @@
 |43. Multiply Strings 
 |98. Validate Binary Search Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/98.py) | Medium | DFS |✅
 |602. Friend Requests II
-|78. Subsets
-|133. Clone Graph
-|285. Inorder Successor in BST
-|215. Kth Largest Element in an Array
+|78. Subsets | [py](https://github.com/cloi1994/session1/blob/master/Facebook/78.py) | Medium | Backtracking |✅
+|133. Clone Graph | [py](https://github.com/cloi1994/session1/blob/master/Facebook/133.py) | Medium | DFS |✅
+|285. Inorder Successor in BST | [py](https://github.com/cloi1994/session1/blob/master/Facebook/285.py) | Medium | DFS |✅
+|215. Kth Largest Element in an Array | [py](https://github.com/cloi1994/session1/blob/master/Facebook/215.py) | Medium | Heap |✅
 |139. Word Break
-|238. Product of Array Except Self
+|238. Product of Array Except Self | [py](https://github.com/cloi1994/session1/blob/master/Facebook/238.py) | Medium | Array |✅
 
 #### 打卡：
 
@@ -50,4 +50,4 @@
 |5/26/18| 5 |
 |5/27/18| 5 |
 |5/28/18| 5 |
-|5/29/18| ? |
+|5/29/18| 5 |
