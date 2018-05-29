@@ -14,7 +14,7 @@ class Solution:
     @param: p: You need find the successor node of p.
     @return: Successor of p.
     """
-    def inorderSuccessor(self, root, p):
+    def inorderSuccessor1(self, root, p):
         # write your code here
         
         if not root or not p:
@@ -39,7 +39,7 @@ class Solution:
                 
         return None
         
-    def inorderSuccessor(self, root, p):
+    def inorderSuccessor2(self, root, p):
         # write your code here
         
         if not root or not p:
@@ -57,7 +57,7 @@ class Solution:
                 
         return success
     
-        def inorderSuccessor(self, root, p):
+    def inorderSuccessor3(self, root, p):
         # write your code here
         
         if not root or not p:
