@@ -56,3 +56,26 @@ class Solution:
                 root = root.right
                 
         return success
+    
+        def inorderSuccessor(self, root, p):
+        # write your code here
+        
+        if not root or not p:
+            return None
+            
+        success = [None]
+        
+        self.dfs(root,p,success)
+        
+        return success[0]
+        
+    def dfs(self,root,p,success):
+        
+        if not root:
+            return
+        
+        if root.val > p.val:
+            success[0] = root
+            self.dfs(root.left,p,success)
+        else:
+            self.dfs(root.right,p,success)
