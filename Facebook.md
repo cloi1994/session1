@@ -27,13 +27,20 @@
 |211. Add and Search Word
 |1. Two Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/1.py) | Easy | Hash Table |✅
 |680. Valid Palindrome II | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Two Pointer |✅
-|636. Exclusive Time of Functions | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Stack |✅
-|341. Flatten Nested List Iterator | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Design |✅
+|636. Exclusive Time of Functions | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Medium | Stack |✅
+|341. Flatten Nested List Iterator | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Medium | Design |✅
 |252. Meeting Rooms | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | Greedy |✅
 |597. Friend Requests I: Overall Acceptance Rate | [py](https://github.com/cloi1994/session1/blob/master/Facebook/680.py) | Easy | DFS |✅
 |161. One Edit Distance
 |43. Multiply Strings 
-|98. Validate Binary Search Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/98.py) | Easy | DFS |✅
+|98. Validate Binary Search Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/98.py) | Medium | DFS |✅
+|602. Friend Requests II
+|78. Subsets
+|133. Clone Graph
+|285. Inorder Successor in BST
+|215. Kth Largest Element in an Array
+|139. Word Break
+|238. Product of Array Except Self
 
 #### 打卡：
 
@@ -43,3 +50,4 @@
 |5/26/18| 5 |
 |5/27/18| 5 |
 |5/28/18| 5 |
+|5/29/18| ? |
