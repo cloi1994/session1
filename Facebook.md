@@ -41,6 +41,13 @@
 |215. Kth Largest Element in an Array | [py](https://github.com/cloi1994/session1/blob/master/Facebook/215.py) | Medium | Heap |✅
 |139. Word Break
 |238. Product of Array Except Self | [py](https://github.com/cloi1994/session1/blob/master/Facebook/238.py) | Medium | Array |✅
+|670. Maximum Swap
+|75. Sort Colors | [py](https://github.com/cloi1994/session1/blob/master/Facebook/75.py) | Medium | Two Pointers |✅
+|88. Merge Sorted Array | [py](https://github.com/cloi1994/session1/blob/master/Facebook/88.py) | Easy | Array |✅
+|33. Search in Rotated Sorted Array | [py](https://github.com/cloi1994/session1/blob/master/Facebook/33.py) | Medium | Binary Search |✅
+|13. Roman to Integer | [py](https://github.com/cloi1994/session1/blob/master/Facebook/13.py) | Medium | Math |✅
+|146. LRU Cache
+|206. Reverse Linked List | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Easy | LinkedList |✅
 
 #### 打卡：
 
@@ -51,3 +58,4 @@
 |5/27/18| 5 |
 |5/28/18| 5 |
 |5/29/18| 5 |
+|5/30/18| 5 |
