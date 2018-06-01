@@ -9,8 +9,8 @@ class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         stack = [root]
         parent = {root: None}
-        while not (p in parent and q in parent):
-            node = stack.pop()
+        while stack:
+            node = stack.pop(0)
             if node.left:
                 parent[node.left] = node
                 stack.append(node.left)
