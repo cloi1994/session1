@@ -48,18 +48,18 @@
 |13. Roman to Integer | [py](https://github.com/cloi1994/session1/blob/master/Facebook/13.py) | Medium | Math |✅
 |146. LRU Cache
 |206. Reverse Linked List | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Easy | LinkedList |✅
-|79. Word Search | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | DFS |✅
-|494. Target Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | DFS |✅
-|236. Lowest Common Ancestor of a Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | BFS |✅
+|79. Word Search | [py](https://github.com/cloi1994/session1/blob/master/Facebook/79.py) | Medium | DFS |✅
+|494. Target Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/494.py) | Medium | DFS |✅
+|236. Lowest Common Ancestor of a Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Facebook/236.py) | Medium | BFS |✅
 |523. Continuous Subarray Sum
-|286. Walls and Gates | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | BFS |✅
-|49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Hash Table |✅
-|38 Count and Say | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Easy | Array |✅
-|20. Valid Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Stack |✅
-|721. Accounts Merge | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Union Find |✅
-|477. Total Hamming Distance| [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Bit |✅
+|286. Walls and Gates | [py](https://github.com/cloi1994/session1/blob/master/Facebook/286.py) | Medium | BFS |✅
+|49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Facebook/49.py) | Medium | Hash Table |✅
+|38 Count and Say | [py](https://github.com/cloi1994/session1/blob/master/Facebook/38.py) | Easy | Array |✅
+|20. Valid Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Facebook/20.py) | Medium | Stack |✅
+|721. Accounts Merge | [py](https://github.com/cloi1994/session1/blob/master/Facebook/721.py) | Medium | Union Find |✅
+|477. Total Hamming Distance| [py](https://github.com/cloi1994/session1/blob/master/Facebook/477.py) | Medium | Bit |✅
 |208. Implement Trie (Prefix Tree) 
-|102. Binary Tree Level Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | BFS |✅
+|102. Binary Tree Level Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/102.py) | Medium | BFS |✅
 
 #### 打卡：
 
