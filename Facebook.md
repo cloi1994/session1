@@ -54,6 +54,12 @@
 |523. Continuous Subarray Sum
 |286. Walls and Gates | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | BFS |✅
 |49. Group Anagrams | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Hash Table |✅
+|38 Count and Say | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Easy | Array |✅
+|20. Valid Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Stack |✅
+|721. Accounts Merge | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Union Find |✅
+|477. Total Hamming Distance| [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | Bit |✅
+|208. Implement Trie (Prefix Tree) 
+|102. Binary Tree Level Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/206.py) | Medium | BFS |✅
 
 #### 打卡：
 
@@ -66,3 +72,4 @@
 |5/29/18| 5 |
 |5/30/18| 5 |
 |5/31/18| 5 |
+|6/1/18| 5 |
