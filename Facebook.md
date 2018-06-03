@@ -60,9 +60,16 @@
 |477. Total Hamming Distance| [py](https://github.com/cloi1994/session1/blob/master/Facebook/477.py) | Medium | Bit |✅
 |208. Implement Trie (Prefix Tree) 
 |102. Binary Tree Level Order Traversal | [py](https://github.com/cloi1994/session1/blob/master/Facebook/102.py) | Medium | BFS |✅
+|209. Minimum Size Subarray Sum | [py](https://github.com/cloi1994/session1/blob/master/Facebook/209.py) | Medium | Two Pointers |✅
+|398. Random Pick Index 
+|554. Brick Wall | [py](https://github.com/cloi1994/session1/blob/master/Facebook/554.py) | Medium | Hash Table |✅
+|674. Longest Continuous Increasing Subsequence | [py](https://github.com/cloi1994/session1/blob/master/Facebook/674.py) | Easy | Array |✅
+|71. Simplify Path | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | Stack |✅
+|28. Implement strStr() | [py](https://github.com/cloi1994/session1/blob/master/Facebook/28.py) | Easy | Array |✅
 
 #### 打卡：
 
 | Date  | # Solved |
 |---------|:--:|
 |5/25/18 - 6/1/18| 40 |
+|6/2/18| 5 |
