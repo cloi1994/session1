@@ -66,13 +66,13 @@
 |674. Longest Continuous Increasing Subsequence | [py](https://github.com/cloi1994/session1/blob/master/Facebook/674.py) | Easy | Array |✅
 |71. Simplify Path | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | Stack |✅
 |28. Implement strStr() | [py](https://github.com/cloi1994/session1/blob/master/Facebook/28.py) | Easy | Array |✅
-|90. Subsets II | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | DFS |✅
-|127. Word Ladder| [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | BFS |✅
-|647. Palindromic Substrings | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | Extend |✅
-|380. Insert Delete GetRandom O(1) | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | Design |✅
+|90. Subsets II | [py](https://github.com/cloi1994/session1/blob/master/Facebook/90.py) | Medium | DFS |✅
+|127. Word Ladder| [py](https://github.com/cloi1994/session1/blob/master/Facebook/127.py) | Medium | BFS |✅
+|647. Palindromic Substrings | [py](https://github.com/cloi1994/session1/blob/master/Facebook/647.py) | Medium | Extend |✅
+|380. Insert Delete GetRandom O(1) | [py](https://github.com/cloi1994/session1/blob/master/Facebook/380.py) | Medium | Design |✅
 |269. Alien Dictionary
 |639. Decode Ways II 
-|377. Combination Sum IV | [py](https://github.com/cloi1994/session1/blob/master/Facebook/71.py) | Medium | DFS/DP |✅
+|377. Combination Sum IV | [py](https://github.com/cloi1994/session1/blob/master/Facebook/377.py) | Medium | DFS/DP |✅
 
 
 #### 打卡：
