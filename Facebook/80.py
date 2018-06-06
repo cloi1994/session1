@@ -2,9 +2,15 @@ class Solution(object):
     def removeDuplicates(self, nums):
         if not nums:
             return 0
-        i = 0 
-        for j in range(1,len(nums)):
-            if nums[i] != nums[j] or (i>0 and nums[i] != nums[i-1]) or i==0:
-                i += 1
+        
+        if len(nums) < 3:
+            return len(nums)
+        
+        i = 2
+        
+        for j in range(2,len(nums)):
+            if nums[i-2] != nums[j]:
                 nums[i] = nums[j]
-        return i+1
+                i += 1
+        
+        return i
