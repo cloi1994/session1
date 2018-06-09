@@ -1,6 +1,6 @@
 
 |-------------|:-----:| :-----: | :------: |
-|167 Two Sum II - Input array is sorted | [py](https://github.com/cloi1994/session1/blob/master/Facebook/167.py) | Easy | Binary Search 
+|167 Two Sum II - Input array is sorted | [py](https://github.com/cloi1994/session1/blob/master/Facebook/167.py) | Easy | Binary Search |
 |78 Subsets | [py](https://github.com/cloi1994/session1/blob/master/Facebook/78.py) | Medium | DFS 
 |89 Gray Code| [py](https://github.com/cloi1994/session1/blob/master/Facebook/89.py) | Medium | Bit 
 |199 Binary Tree Right Side View| [py](https://github.com/cloi1994/session1/blob/master/Facebook/199.py) | Medium | DFS 
