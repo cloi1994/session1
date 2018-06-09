@@ -1,4 +1,5 @@
 
+| Title  | Solution |Level | Type |
 |-------------|:-----:| :-----: | :------: |
 |167 Two Sum II - Input array is sorted | [py](https://github.com/cloi1994/session1/blob/master/Facebook/167.py) | Easy | Binary Search |
 |78 Subsets | [py](https://github.com/cloi1994/session1/blob/master/Facebook/78.py) | Medium | DFS 
