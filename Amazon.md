@@ -22,14 +22,14 @@
 |204. Count Primes | [py](https://github.com/cloi1994/session1/blob/master/Amazon/204.py) | Easy | Math
 |235. Lowest Common Ancestor of a Binary Search Tree | [py](https://github.com/cloi1994/session1/blob/master/Amazon/235.py) | Easy | DFS Table 
 
-|297. Serialize and Deserialize Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Amazon/297.py) | Easy | Design
-|186. Reverse Words in a String II  | [py](https://github.com/cloi1994/session1/blob/master/Amazon/186.py) | Easy | String
+|297. Serialize and Deserialize Binary Tree | [py](https://github.com/cloi1994/session1/blob/master/Amazon/297.py) | Hard | Design
+|186. Reverse Words in a String II  | [py](https://github.com/cloi1994/session1/blob/master/Amazon/186.py) | Medium | String
 |160. Intersection of Two Linked Lists | [py](https://github.com/cloi1994/session1/blob/master/Amazon/160.py) | Easy | LinkedList
 |20. Valid Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Amazon/20.py) | Easy | Stack
-|138. Copy List with Random Pointer 
+|138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Amazon/160.py) | Medium | LinkedList
 |42. Trapping Rain Water 
 |141. Linked List Cycle | [py](https://github.com/cloi1994/session1/blob/master/Amazon/141.py) | Easy | LinkedList
-|127. Word Ladder | [py](https://github.com/cloi1994/session1/blob/master/Amazon/127.py) | Easy | BFS
+|127. Word Ladder | [py](https://github.com/cloi1994/session1/blob/master/Amazon/127.py) | Medium | BFS
 |242. Valid Anagram | [py](https://github.com/cloi1994/session1/blob/master/Amazon/242.py) | Easy | Hash
 |126. Word Ladder II 
 |215 Kth Largest Element in an Array | [py](https://github.com/cloi1994/session1/blob/master/Amazon/215.py) | Easy | Heap
