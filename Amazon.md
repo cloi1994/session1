@@ -26,7 +26,7 @@
 |186. Reverse Words in a String II  | [py](https://github.com/cloi1994/session1/blob/master/Amazon/186.py) | Medium | String
 |160. Intersection of Two Linked Lists | [py](https://github.com/cloi1994/session1/blob/master/Amazon/160.py) | Easy | LinkedList
 |20. Valid Parentheses | [py](https://github.com/cloi1994/session1/blob/master/Amazon/20.py) | Easy | Stack
-|138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Amazon/160.py) | Medium | LinkedList
+|138. Copy List with Random Pointer | [py](https://github.com/cloi1994/session1/blob/master/Amazon/138.py) | Medium | LinkedList
 |42. Trapping Rain Water 
 |141. Linked List Cycle | [py](https://github.com/cloi1994/session1/blob/master/Amazon/141.py) | Easy | LinkedList
 |127. Word Ladder | [py](https://github.com/cloi1994/session1/blob/master/Amazon/127.py) | Medium | BFS
