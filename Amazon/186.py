@@ -5,10 +5,12 @@ class Solution(object):
         :rtype: str
         """
         
-        if not s:
-            return " "
+        if not s or len(s) == 0 or s == " ":
+            return ""
+        
         
         left = 0
+        
         
         s = list(s)
         
@@ -18,6 +20,9 @@ class Solution(object):
                 left = i + 1
                 
         self.reverse(s,0,len(s)-1)
+        
+        
+        
         
         return ''.join(s)
         
