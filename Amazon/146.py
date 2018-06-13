@@ -53,12 +53,9 @@ class LRUCache(object):
             return -1
         else:
             node = self.cache[key]
-            val = node.val
             self.dll.remove_node(node)
-            newNode = Node(key,val)
-            self.cache[key] = newNode
-            self.dll.add_to_head(newNode)
-            return newNode.val
+            self.dll.add_to_head(node)
+            return node.val
         
         
         
